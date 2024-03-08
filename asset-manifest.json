@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LutpiaIrsadulM/react-project/markdown-previewer/static/css/main.0b1f1b90.css",
-    "main.js": "/LutpiaIrsadulM/react-project/markdown-previewer/static/js/main.5aad9b98.js",
-    "static/js/453.cf94360e.chunk.js": "/LutpiaIrsadulM/react-project/markdown-previewer/static/js/453.cf94360e.chunk.js",
-    "index.html": "/LutpiaIrsadulM/react-project/markdown-previewer/index.html",
-    "main.0b1f1b90.css.map": "/LutpiaIrsadulM/react-project/markdown-previewer/static/css/main.0b1f1b90.css.map",
-    "main.5aad9b98.js.map": "/LutpiaIrsadulM/react-project/markdown-previewer/static/js/main.5aad9b98.js.map",
-    "453.cf94360e.chunk.js.map": "/LutpiaIrsadulM/react-project/markdown-previewer/static/js/453.cf94360e.chunk.js.map"
+    "main.css": "/LutpiaIrsadulM/markdown-preview/static/css/main.0b1f1b90.css",
+    "main.js": "/LutpiaIrsadulM/markdown-preview/static/js/main.92bf24ae.js",
+    "static/js/453.cf94360e.chunk.js": "/LutpiaIrsadulM/markdown-preview/static/js/453.cf94360e.chunk.js",
+    "index.html": "/LutpiaIrsadulM/markdown-preview/index.html",
+    "main.0b1f1b90.css.map": "/LutpiaIrsadulM/markdown-preview/static/css/main.0b1f1b90.css.map",
+    "main.92bf24ae.js.map": "/LutpiaIrsadulM/markdown-preview/static/js/main.92bf24ae.js.map",
+    "453.cf94360e.chunk.js.map": "/LutpiaIrsadulM/markdown-preview/static/js/453.cf94360e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0b1f1b90.css",
-    "static/js/main.5aad9b98.js"
+    "static/js/main.92bf24ae.js"
   ]
 }
