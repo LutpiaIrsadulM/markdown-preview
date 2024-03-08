@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LutpiaIrsadulM/react-project/static/css/main.0b1f1b90.css",
+    "main.js": "/LutpiaIrsadulM/react-project/static/js/main.e067c4a6.js",
+    "static/js/453.cf94360e.chunk.js": "/LutpiaIrsadulM/react-project/static/js/453.cf94360e.chunk.js",
+    "index.html": "/LutpiaIrsadulM/react-project/index.html",
+    "main.0b1f1b90.css.map": "/LutpiaIrsadulM/react-project/static/css/main.0b1f1b90.css.map",
+    "main.e067c4a6.js.map": "/LutpiaIrsadulM/react-project/static/js/main.e067c4a6.js.map",
+    "453.cf94360e.chunk.js.map": "/LutpiaIrsadulM/react-project/static/js/453.cf94360e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1f1b90.css",
+    "static/js/main.e067c4a6.js"
+  ]
+}
