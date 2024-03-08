@@ -1,0 +1,26 @@
+*{
+  /* margin: 0; */
+  /* padding:0; */
+  box-sizing: border-box;
+}
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding:1em;
+  gap:1em;
+}
+
+header{
+  color:white;
+  background-color: blue;
+  text-align:center;
+}
+
+textarea{
+  width:100%;
+  min-height: 50%;
+  height: 80%;
+  padding:1em;
+}

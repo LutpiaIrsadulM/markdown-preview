@@ -1,0 +1,9 @@
+
+#preview {
+    background-color: white;
+    padding:.25em 1em;
+}
+img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
